@@ -4,7 +4,9 @@ Official working repository for NOKIANGEL public materials, website references, 
 
 ## Official Artist Definition
 
-NOKIANGEL is a Europe-based DJ and electronic music producer focused on tech, minimal and progressive electronic music.
+NOKIANGEL is the current stage name of Denis Varnavskiy (Денис Варнавский), a DJ and electronic music artist based in Spain and active across Europe. The project is centered on Tech House, Minimal House, Minimal Techno and Groove, with influences from Deep House, Techno and Experimental Electronic music.
+
+VARNAVSKIY refers only to historical catalogue and earlier activity. It is not the current artist identity.
 
 ## Official Links
 
