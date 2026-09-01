@@ -1,15 +1,20 @@
 # NOKIANGEL Europe Booking Tracker
 
+
 Updated: 2026-07-21
+
 
 ## Booking Contact
 
+
 - Email: vrnvskiy@gmail.com
 - Telegram: https://t.me/gigeae
-- Sound direction: tech, minimal and progressive electronic music
+- Sound direction: Tech House, Minimal House, Minimal Techno and Groove, with Deep House, Techno and Experimental Electronic influences
 - Availability: club dates, guest sets and electronic music events
 
+
 ## First Follow-Up Sent On 2026-07-21
+
 
 - Nitsa / Sala Apolo — Barcelona — info@sala-apolo.com
 - Goya Social Club — Madrid — guestlist@goya43.com
@@ -22,7 +27,9 @@ Updated: 2026-07-21
 - Garage Noord — Amsterdam — info@garagenoord.com
 - RADION — Amsterdam — bookings@radionamsterdam.nl
 
+
 ## Waiting / Next Follow-Up Candidates
+
 
 - Razzmatazz / The Loft — Barcelona — inforazz@salarazzmatazz.com
 - Tresor / Globus — Berlin — club@tresorberlin.com
@@ -34,6 +41,9 @@ Updated: 2026-07-21
 - Jasna 1 — Warsaw — info@jasna1.com
 - Smolna — Warsaw — info@smolna38.com
 
+
 ## Reply Tracking Rule
 
+
 Check replies and bounces before sending any next batch. Do not resend to a venue if a human reply has arrived. Keep greetings neutral: Hello,
+
